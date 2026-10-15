@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "64220f676b17f0194e826f1e",
+  "owner": "gcwduuufg",
+  "repo": "page-9b78dc9f6d6a6ce45d3c94b9",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9b78dc9f6d6a6ce45d3c94b9",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "77468d7b637c6099182f63e89d8e810c0e546a4462cfd331a371821076b05879",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充提供稳定VPN网络加速服务，客户端下载及机场订阅。基础版15元/月起，旗舰版35元/月，团队版85元/月，解锁流媒体和游戏加速。",
+          "AI_DESCRIPTION": "GPT代充提供稳定VPN网络加速服务，客户端下载及机场订阅。基础版15元/月起，旗舰版35元/月，团队版85元/月，解锁流媒体和游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --deep-blue: #0A2540;\n            --cyan: #00BFFF;\n        }\n        * { box-sizing: border-box; margin:0; padding:0; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: #f8f9fa;\n            color: #333;\n            line-height: 1.6;\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        main { max-width: 100%; }\n        h1 {\n            font-size: 2.5em;\n            color: var(--deep-blue);\n            text-align: center;\n            margin-bottom: 30px;\n        }\n        h2 {\n            font-size: 1.8em;\n            color: var(--deep-blue);\n            margin: 30px 0 15px;\n        }\n        h3 {\n            font-size: 1.4em;\n            color: #444;\n            margin: 20px 0 10px;\n        }\n        .intro, .scenarios, .operations {\n            background: white;\n            padding: 25px;\n            border-radius: 12px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.1);\n            margin-bottom: 30px;\n        }\n        .intro p, .scenarios p, .operations p {\n            font-size: 1.1em;\n            margin-bottom: 15px;\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 20px;\n            margin: 40px 0;\n        }\n        .plan {\n            background: white;\n            border: 3px solid var(--cyan);\n            border-radius: 12px;\n            padding: 25px;\n            box-shadow: 0 6px 20px rgba(0,0,0,0.15);\n            transition: transform 0.3s;\n        }\n        .plan.featured {\n            border-color: var(--deep-blue);\n            transform: scale(1.05);\n        }\n        .plan h3 { color: var(--cyan); font-size: 1.5em; margin-bottom: 15px; }\n        .plan.price { font-size: 1.8em; color: var(--deep-blue); margin: 10px 0; }\n        .plan.annual { color: #666; font-size: 1em; margin-bottom: 20px; }\n        .plan.features ul { list-style: none; }\n        .plan.features li { padding: 8px 0; border-bottom: 1px solid #eee; }\n        .faq { margin: 40px 0; }\n        details {\n            background: white;\n            border-radius: 10px;\n            margin-bottom: 15px;\n            overflow: hidden;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.1);\n        }\n        summary {\n            font-weight: bold;\n            padding: 20px;\n            background: linear-gradient(135deg, var(--deep-blue), var(--cyan));\n            color: white;\n            cursor: pointer;\n            border-radius: 10px;\n        }\n        .answer { padding: 20px; font-size: 1.05em; color: #555; }\n        a { color: var(--cyan); text-decoration: none; }\n        a:hover { text-decoration: underline; }\n        @media (max-width: 768px) {\n            body { padding: 15px; }\n            h1 { font-size: 2em; }\n            .plans { grid-template-columns: 1fr; }\n        }\n    </style>\n\n\n    <main>\n        <h1>GPT代充</h1>\n        <section class=\"intro\">\n            <h2>品牌简介</h2>\n            <p>GPT代充是一款稳定高效的VPN网络加速器，提供优质梯子服务，帮助用户解锁全球内容，加速网络连接。无论是在国内还是海外，GPT代充都能为您提供快速、可靠的VPN加速体验。</p>\n            <p>我们专注于提供客户端下载、机场订阅和网络加速解决方案，让您的上网更顺畅。</p>\n        </section>\n        <section class=\"scenarios\">\n            <h2>使用场景</h2>\n            <p>1. 解锁流媒体平台，如Netflix、Disney+、YouTube等。</p>\n            <p>2. 加速游戏下载和在线对战，减少延迟。</p>\n            <p>3. 保护隐私，确保安全浏览和办公。</p>\n            <p>4. 远程办公，稳定连接企业网络。</p>\n            <p>5. 跨国访问内容，轻松翻墙。</p>\n        </section>\n        <section class=\"operations\">\n            <h2>操作说明</h2>\n            <p>1. 选择适合您的套餐并完成订阅。</p>\n            <p>2. <a href=\"#download\">点击下载</a> GPT代充客户端，支持Windows、Mac、Android等多种平台。</p>\n            <p>3. 安装并登录账号。</p>\n            <p>4. 选择节点连接，即可享受加速服务。</p>\n        </section>\n        <h2>套餐对比</h2>\n        <div class=\"plans\">\n            <div class=\"plan\">\n                <h3>基础版</h3>\n                <div class=\"price\">¥15/月</div>\n                <div class=\"annual\">按年付仅需 ¥150/年</div>\n                <div class=\"features\">\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"plan featured\">\n                <h3>旗舰版</h3>\n                <div class=\"price\">¥35/月</div>\n                <div class=\"annual\">按年付仅需 ¥350/年</div>\n                <div class=\"features\">\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"plan\">\n                <h3>团队版</h3>\n                <div class=\"price\">¥85/月</div>\n                <div class=\"annual\">按年付仅需 ¥850/年</div>\n                <div class=\"features\">\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n        <h2>常见问题解答</h2>\n        <div class=\"faq\">\n            <details>\n                <summary>什么是GPT代充？</summary>\n                <div class=\"answer\">GPT代充是一款专业的VPN网络加速器，提供稳定梯子服务和客户端下载，帮助用户轻松访问全球内容。</div>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <div class=\"answer\">访问官网，选择套餐后即可下载GPT代充客户端，支持多种操作系统，一键安装。</div>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <div class=\"answer\">基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。</div>\n            </details>\n            <details>\n                <summary>能解锁哪些流媒体？</summary>\n                <div class=\"answer\">旗舰版和团队版支持全节点原生解锁Netflix、YouTube、Disney+等主流平台。</div>\n            </details>\n            <details>\n                <summary>如何申请退款？</summary>\n                <div class=\"answer\">订阅后7天内可申请退款，具体流程请登录账号或联系客服。</div>\n            </details>\n            <details>\n                <summary>GPT代充适合哪些人使用？</summary>\n                <div class=\"answer\">适合需要加速上网、翻墙、游戏加速的用户，包括个人用户和企业团队。</div>\n            </details>\n        </div>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "5618216301c959d71966a07141bab611d0e70f01d2de797a6e7a41f939be5f88",
+          "seo": {
+            "title": "GPT代充 VPN加速器 | 官网下载 客户端",
+            "keywords": "GPT代充, VPN加速器, 机场订阅, 客户端下载, 网络加速, 梯子服务",
+            "description": "GPT代充提供稳定VPN网络加速服务，客户端下载及机场订阅。基础版15元/月起，旗舰版35元/月，团队版85元/月，解锁流媒体和游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qgycbmy.cn",
+    "host": "p-d09412f967.qgycbmy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "0788d651ea5702998cd7158f1e49a97ff93c39ba5526b04c1321badad04793f1",
+    "sitemap.xml": "426e0cbc89ae8492223d7240b01246a08d3080feee50315f2f179841b8fe4797",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e95505ed521d2ac32455c6049ff972406f3a9feaaede815a8bdc3360a5dac095",
+    "robots.txt": "682e5ba1bb9997ab175c1bd1c85743ad1318efddd9e467db3008d92748cf73ed",
+    "9ec5995cd6980b08de51390e9c474bc6.txt": "7498b86ff22bb552b9f828a96caefc9c7a41bc0d6f785d77a2b88944967c3b2d"
+  },
+  "revision": "e488a8f1aec22175423e6d30bd32628d50159c25c48ca66e00d2c9e1b067b73f"
+}
